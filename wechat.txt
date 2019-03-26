@@ -1,2 +1,2 @@
 wechat 0.1 version
-小张同学升级到了 0.2 版本
+xiao zhang update wechat to 0.2 version
